@@ -1,0 +1,811 @@
+[ {
+  "id" : "e0627500-8661-11ea-813a-fd13517e3819",
+  "name" : "Producto",
+  "createdDate" : 1587756552272,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 34
+}, {
+  "id" : "e06904b0-8661-11ea-813a-fd13517e3819",
+  "name" : "Canal",
+  "createdDate" : 1587756552315,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 7
+}, {
+  "id" : "e06f4640-8661-11ea-813a-fd13517e3819",
+  "name" : "Procedimiento",
+  "createdDate" : 1587756552356,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 19
+}, {
+  "id" : "e0744f50-8661-11ea-813a-fd13517e3819",
+  "name" : "Accion",
+  "createdDate" : 1587756552389,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 15
+}, {
+  "id" : "e07ab7f0-8661-11ea-813a-fd13517e3819",
+  "name" : "Cliente",
+  "createdDate" : 1587756552431,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 12
+}, {
+  "id" : "e082a730-8661-11ea-813a-fd13517e3819",
+  "name" : "Problema",
+  "createdDate" : 1587756552483,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 2
+}, {
+  "id" : "e0858d60-8661-11ea-813a-fd13517e3819",
+  "name" : "Tiempo",
+  "createdDate" : 1587756552502,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 6
+}, {
+  "id" : "e0890fd0-8661-11ea-813a-fd13517e3819",
+  "name" : "Condicion",
+  "createdDate" : 1587756552525,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 11
+}, {
+  "id" : "e08e8e10-8661-11ea-813a-fd13517e3819",
+  "name" : "Personal",
+  "createdDate" : 1587756552561,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 5
+}, {
+  "id" : "e092acc0-8661-11ea-813a-fd13517e3819",
+  "name" : "Organizacion",
+  "createdDate" : 1587756552588,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 2
+}, {
+  "id" : "e0962f30-8661-11ea-813a-fd13517e3819",
+  "name" : "Unidad",
+  "createdDate" : 1587756552611,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 8
+}, {
+  "id" : "e09d8230-8661-11ea-813a-fd13517e3819",
+  "name" : "Servicios",
+  "createdDate" : 1587756552659,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 2
+}, {
+  "id" : "e0a26430-8661-11ea-813a-fd13517e3819",
+  "name" : "Asesoria",
+  "createdDate" : 1587756552691,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 4
+}, {
+  "id" : "e0a65bd0-8661-11ea-813a-fd13517e3819",
+  "name" : "Documento",
+  "createdDate" : 1587756552717,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 6
+}, {
+  "id" : "e0af3570-8661-11ea-813a-fd13517e3819",
+  "name" : "Intensidad",
+  "createdDate" : 1587756552775,
+  "workspace" : "d77aa010-85a4-11ea-b486-df14ac15f1d5",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 1
+} ]
